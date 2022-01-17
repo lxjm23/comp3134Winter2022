@@ -1,0 +1,5 @@
+-What is the definition of server port?
+	Server ports are endpoints of a network. It is used to exchange information between a webserver and a web client.
+-What is server port range?
+	The range of server port are 0 to 65535.
+-How many bits does number above represent?
