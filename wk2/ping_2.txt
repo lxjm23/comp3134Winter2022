@@ -1,0 +1,1 @@
+64 bytes from 134.122.42.221: icmp_seq=3 ttl=64 time=0.078 ms

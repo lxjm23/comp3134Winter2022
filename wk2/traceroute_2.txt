@@ -1,0 +1,16 @@
+Tracing route to google.com [142.251.41.78]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  mynetwork [192.168.2.1] 
+  2     1 ms     2 ms     8 ms  10.11.2.161 
+  3     *        *        *     Request timed out.
+  4     4 ms     3 ms     3 ms  tcore4-toronto63_37.net.bell.ca [64.230.59.196] 
+  5     7 ms     7 ms     7 ms  tcore4-toronto63-bundle-ether44.net.bell.ca [142.124.127.206] 
+  6     *        3 ms     *     tcore2-torontoxn_ae2.net.bell.ca [64.230.51.160] 
+  7     3 ms     3 ms     3 ms  bx3-torontoxn_hundredgige0-2-0-0.net.bell.ca [64.230.97.147] 
+  8     3 ms     2 ms     3 ms  google_bx3-torontoxn.net.bell.ca [184.150.181.147] 
+  9     3 ms     3 ms     2 ms  108.170.228.0 
+ 10     2 ms     2 ms     2 ms  142.251.70.11 
+ 11     2 ms     2 ms     2 ms  yyz10s20-in-f14.1e100.net [142.251.41.78] 
+
+Trace complete.

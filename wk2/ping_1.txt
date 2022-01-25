@@ -1,0 +1,1 @@
+64 bytes from ec2-99-79-139-11.ca-central-1.compute.amazonaws.com (99.79.139.11): icmp_seq=5 ttl=47 time=7.45 ms
