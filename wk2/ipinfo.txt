@@ -1,0 +1,21 @@
+queensu.ca
+Domain Server IP: 13.107.246.10
+
+==============
+yorku.ca
+Domain Server IP: 130.63.236.137
+
+==============
+
+uwo.ca
+Domain Server IP: 129.100.0.79
+
+==============
+
+uwaterloo.ca
+Domain Server IP: 151.101.194.133
+
+==============
+
+www.mcmaster.ca
+Domain Server IP: 130.113.64.30
